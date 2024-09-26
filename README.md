@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DingPlaysMC
+- 👋 Hi, I’m @DingAlex
 - 👀 I’m interested in minecraft
-- 🌱 I’m currently learning python,java
-- 💞️ I’m looking to collaborate on minecraft
-- 📫 How to reach me ?
-- 😄 Pronouns: he
-- ⚡ Fun fact: I played mc for 7years
+- ⌨️ I know something about python,java,c++,c#,Assembly,html
+- 🌱 I’m currently learning how to develop a new language
+- 😄 Pronouns: He
+- ⚡ Fun fact: I played mc for 7 years
+- 🏁 My flag: To devlop a game on unity
 
 <!---
 DingPlaysMC/DingPlaysMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
